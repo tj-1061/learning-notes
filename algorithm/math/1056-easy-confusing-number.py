@@ -18,4 +18,4 @@ class Solution:
 if __name__ == "__main__":
     s = Solution()
     assert s.confusing_number(89)
-    print('Pass')
+    print('All tests passed!')

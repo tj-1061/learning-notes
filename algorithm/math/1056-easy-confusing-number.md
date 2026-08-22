@@ -1,6 +1,6 @@
 # 1056 Confusing Number
 
-easy · array and string · [LeetCode](https://leetcode.com/problems/confusing-number/)
+easy · math · [LeetCode](https://leetcode.com/problems/confusing-number/)
 
 ## Meta
 
