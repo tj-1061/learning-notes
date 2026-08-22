@@ -30,6 +30,7 @@ TOPICS = {
     "union-find",
     "greedy",
     "system design",
+    "math",
 }
 
 
