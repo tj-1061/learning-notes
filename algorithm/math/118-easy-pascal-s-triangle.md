@@ -10,7 +10,7 @@ easy · math · [LeetCode](https://leetcode.com/problems/pascal-s-triangle/)
 
 ## Problem
 
-
+[https://github.com/doocs/leetcode/tree/main/solution/0100-0199/0118.Pascal's%20Triangle](https://github.com/doocs/leetcode/tree/main/solution/0100-0199/0118.Pascal's%20Triangle)
 
 ## Approach
 
