@@ -10,3 +10,4 @@ Result: `pass` = unaided in time; `soft` = one hint, redo in 3 days; `fail` = ed
 | 2026-08-21 | 3622 | [Check Divisibility by Digit Sum and Product](array and string/3622-easy-check-divisibility-by-digit-sum-and-product.md) | array and string | easy | 1 |  |  |  | scaffolded |
 | 2026-08-22 | 1133 | [Largest Unique Number](array and string/1133-easy-largest-unique-number.md) | array and string | easy | 1 |  |  |  | scaffolded |
 | 2026-08-22 | 1165 | [Single-Row Keyboard](array and string/1165-easy-single-row-keyboard.md) | array and string | easy | 1 |  |  |  | scaffolded |
+| 2026-08-23 | 118 | [Pascal's Triangle](math/118-easy-pascal-s-triangle.md) | math | easy | 1 |  |  | simulation | scaffolded |
