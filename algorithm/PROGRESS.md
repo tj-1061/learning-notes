@@ -12,3 +12,4 @@ Result: `pass` = unaided in time; `soft` = one hint, redo in 3 days; `fail` = ed
 | 2026-08-22 | 1165 | [Single-Row Keyboard](array and string/1165-easy-single-row-keyboard.md) | array and string | easy | 1 |  |  |  | scaffolded |
 | 2026-08-23 | 118 | [Pascal's Triangle](math/118-easy-pascal-s-triangle.md) | math | easy | 1 |  |  | simulation | scaffolded |
 | 2026-08-23 | 1184 | [Distance Between Bus Stops](array and string/1184-easy-distance-between-bus-stops.md) | array and string | easy | 1 |  |  |  | scaffolded |
+| 2026-08-23 | 1189 | [Maximum Number of Balloons](array and string/1189-easy-maximum-number-of-balloons.md) | array and string | easy | 1 |  |  |  | scaffolded |
