@@ -71,7 +71,7 @@ Use this heading set, in this order:
 ```markdown
 # NNN Title
 
-difficulty · topic · [LeetCode](url)
+difficulty · topic · [LeetCode](url) · [Doocs](url)
 
 ## Meta
 ## Problem

@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import re
+import urllib.parse
 from datetime import date
 from pathlib import Path
 
@@ -76,12 +77,22 @@ def main() -> None:
         raise SystemExit(f"Already exists: {md_path.relative_to(REPO_ROOT)} or .py")
 
     url = f"https://leetcode.com/problems/{leetcode_slug(args.title)}/"
+
+    doocs_n = int(args.id)
+    doocs_start = (doocs_n // 100) * 100
+    doocs_end = doocs_start + 99
+    doocs_range = f"{doocs_start:04d}-{doocs_end:04d}"
+    doocs_padded_id = f"{doocs_n:04d}"
+    doocs_title = urllib.parse.quote(f"{doocs_padded_id}.{args.title}")
+    doocs_url = f"https://github.com/doocs/leetcode/blob/main/solution/{doocs_range}/{doocs_title}/README_EN.md"
+
     today = date.today().isoformat()
 
     md = TEMPLATE_MD.read_text()
     md = md.replace("# NNN Title", f"# {pid} {args.title}")
     md = md.replace("medium · graph ·", f"{args.difficulty} · {topic} ·")
     md = md.replace("https://leetcode.com/problems/slug/", url)
+    md = md.replace("https://github.com/doocs/leetcode/blob/main/solution/doocs-slug/", doocs_url)
     md = md.replace("- Pattern:", f"- Pattern: {args.pattern}".rstrip())
     md = md.replace("Created: YYYY-MM-DD", f"Created: {today}")
     md = md.replace("| YYYY-MM-DD | 1 |  | pass / soft / fail |  |", f"| {today} | 1 |  |  |  |")

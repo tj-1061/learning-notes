@@ -1,6 +1,6 @@
 # NNN Title
 
-medium · graph · [LeetCode](https://leetcode.com/problems/slug/)
+medium · graph · [LeetCode](https://leetcode.com/problems/slug/) · [Doocs](https://github.com/doocs/leetcode/blob/main/solution/doocs-slug/)
 
 ## Meta
 
