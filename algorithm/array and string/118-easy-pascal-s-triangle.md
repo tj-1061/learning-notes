@@ -1,6 +1,6 @@
 # 118 Pascal's Triangle
 
-easy · math · [LeetCode](https://leetcode.com/problems/pascal-s-triangle/)
+easy · array and string · [LeetCode](https://leetcode.com/problems/pascal-s-triangle/)
 
 ## Meta
 
