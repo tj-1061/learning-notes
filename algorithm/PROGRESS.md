@@ -19,3 +19,4 @@ Result: `pass` = unaided in time; `soft` = one hint, redo in 3 days; `fail` = ed
 | 2026-08-29 | 1217 | [Minimum Cost to Move Chips to The Same Position](array and string/1217-easy-minimum-cost-to-move-chips-to-the-same-position.md) | array and string | easy | 1 |  |  |  | scaffolded |
 | 2026-08-30 | 067 | [Add Binary](math and bitwise/067-easy-add-binary.md) | math and bitwise | easy | 1 |  |  |  | scaffolded |
 | 2026-08-30 | 3718 | [Smallest Missing Multiple of K](array and string/3718-easy-smallest-missing-multiple-of-k.md) | array and string | easy | 1 |  |  |  | scaffolded |
+| 2026-08-30 | 2022 | [Convert 1D Array Into 2D Array](array and string/2022-easy-convert-1d-array-into-2d-array.md) | array and string | easy | 1 |  |  |  | scaffolded |
