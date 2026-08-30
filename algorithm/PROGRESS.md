@@ -16,3 +16,4 @@ Result: `pass` = unaided in time; `soft` = one hint, redo in 3 days; `fail` = ed
 | 2026-08-23 | 1009 | [Complement of Base 10 Integer](math and bitwise/1009-easy-complement-of-base-10-integer.md) | math and bitwise | easy | 1 |  |  |  | scaffolded |
 | 2026-08-23 | 119 | [Pascal's Triangle II](array and string/119-easy-pascal-s-triangle-ii.md) | array and string | easy | 1 |  |  |  | scaffolded |
 | 2026-08-23 | 121 | [Best Time to Buy and Sell Stock](array and string/121-easy-best-time-to-buy-and-sell-stock.md) | array and string | easy | 1 |  |  |  | scaffolded |
+| 2026-08-29 | 1217 | [Minimum Cost to Move Chips to The Same Position](array and string/1217-easy-minimum-cost-to-move-chips-to-the-same-position.md) | array and string | easy | 1 |  |  |  | scaffolded |
